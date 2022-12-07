@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "-": "0.0.1",
-    "serverless": "^1.67.1",
+    "serverless": "^3.25.1",
     "uuid": "^3.4.0"
   }
 }
